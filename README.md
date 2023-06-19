@@ -10,4 +10,4 @@ Efficient Convolution via HW/SW level Parallelism
 
 The combined effect of SIMD instructions and MPI results in significant performance enhancements for the matrix convolution task, demonstrating the benefits of parallelization and utilizing hardware-level optimizations
 
-<a href="https://imgbb.com/"><img src="https://ibb.co/KXyGvMC" alt="convolution" border="0" width="600" height="300"></a>
+<a href="https://ibb.co/KXyGvMC"><img src="https://i.ibb.co/g3g7K5s/convolution.jpg" alt="convolution" border="0"></a>
